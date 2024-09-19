@@ -8,7 +8,7 @@ This repository contains a Flask application that performs CRUD (Create, Read, U
 2. [Setup and Installation](#setup-and-installation)
 3. [Configuration](#configuration)
 4. [Running the Application](#running-the-application)
-5. [API Endpoints](#api-endpoints)
+5. [API Endpoints (CRUD Operations)](#api-endpoints)
 
 ## Prerequisites
 
